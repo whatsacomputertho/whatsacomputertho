@@ -5,6 +5,9 @@
 Software engineer at IBM interested in mathematics.  Studied IST & Mathematics at Penn State University Schreyer Honors College.  Find me on...
 
 <div align="center">
+    <a href="https://whatsacomputertho.github.io/">
+        <img src="https://img.shields.io/badge/HAX-Blog-blue?style=for-the-badge">
+    </a>
     <a href="https://www.linkedin.com/in/ethan-b-500895150/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
