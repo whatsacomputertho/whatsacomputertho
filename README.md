@@ -4,7 +4,7 @@
 
 Software engineer at IBM interested in mathematics.  Studied IST & Mathematics at Penn State University Schreyer Honors College.  Find me on...
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
     <a href="https://www.linkedin.com/in/ethan-b-500895150/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -14,7 +14,7 @@ Software engineer at IBM interested in mathematics.  Studied IST & Mathematics a
 
 **Passionate about...**
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
     <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
@@ -27,7 +27,7 @@ Software engineer at IBM interested in mathematics.  Studied IST & Mathematics a
 
 **Proficient in...**
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
