@@ -57,12 +57,16 @@ I wrote [a Python library](https://github.com/whatsacomputertho/StorageTopology)
 
 I read [_Itai, Christos & Szwarcfiter's Hamilton Paths in Grid Graphs_](https://www.researchgate.net/publication/220616693_Hamilton_Paths_in_Grid_Graphs) and implemented their algorithms as [a Rust CLI](https://github.com/whatsacomputertho/grid-solver).  I wrote [my own guide describing the problem & the algorithm](https://github.com/whatsacomputertho/grid-solver/blob/main/doc/problem-specification.md).
 
-![CLI Usage](https://github.com/whatsacomputertho/grid-solver/blob/7146be1312c6a689a593468ca487951c833289ed/img/cli-usage.gif)
+<div align="center">
+    <img src="https://github.com/whatsacomputertho/grid-solver/blob/7146be1312c6a689a593468ca487951c833289ed/img/cli-usage.gif">
+</div>
 
 ### Elevator Simulation
 
 I wrote a [Rust crate for elevator simulation](https://github.com/whatsacomputertho/elevate-lib) together with a [Rust CLI for running elevator simulations](https://github.com/whatsacomputertho/elevate-cli).
 
-![elevate-cli display](doc/assets/elevate-cli.gif)
+<div align="center">
+    <img src="https://github.com/whatsacomputertho/elevate-cli/blob/a37d6f6be2bd098eb8747b2549db777557efefb1/doc/assets/elevate-cli.gif">
+</div>
 
 Then I wrote a [Rust WebAssembly module for elevator simulation](https://github.com/whatsacomputertho/universal-elevators-plugin) as well as a small web server & site for [running gamified elevator simulations](https://github.com/whatsacomputertho/universal-elevators-web).
