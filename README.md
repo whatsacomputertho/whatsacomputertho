@@ -44,3 +44,25 @@ Software engineer at IBM interested in mathematics.  Studied IST & Mathematics a
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
     <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">
 </div>
+
+## Projects
+
+### Honors Thesis
+
+I wrote a paper, [_Storage Latency Tradeoffs in Geographically Distributed Storage Settings_](https://honors.libraries.psu.edu/files/final_submissions/8130) which used **Graph Theory** & **Algebraic Coding Theory** to analyze the performance of erasure coding in distributed databases compared to traditional replication.
+
+I wrote [a Python library](https://github.com/whatsacomputertho/StorageTopology) called `StorageTopology` which I [published on PyPi](https://pypi.org/project/StorageTopology/) which allowed me to computationally verify results from my paper.
+
+### Grid Solver
+
+I read [_Itai, Christos & Szwarcfiter's Hamilton Paths in Grid Graphs_](https://www.researchgate.net/publication/220616693_Hamilton_Paths_in_Grid_Graphs) and implemented their algorithms as [a Rust CLI](https://github.com/whatsacomputertho/grid-solver).  I wrote [my own guide describing the problem & the algorithm](https://github.com/whatsacomputertho/grid-solver/blob/main/doc/problem-specification.md).
+
+![CLI Usage](https://github.com/whatsacomputertho/grid-solver/blob/7146be1312c6a689a593468ca487951c833289ed/img/cli-usage.gif)
+
+### Elevator Simulation
+
+I wrote a [Rust crate for elevator simulation](https://github.com/whatsacomputertho/elevate-lib) together with a [Rust CLI for running elevator simulations](https://github.com/whatsacomputertho/elevate-cli).
+
+![elevate-cli display](doc/assets/elevate-cli.gif)
+
+Then I wrote a [Rust WebAssembly module for elevator simulation](https://github.com/whatsacomputertho/universal-elevators-plugin) as well as a small web server & site for [running gamified elevator simulations](https://github.com/whatsacomputertho/universal-elevators-web).
